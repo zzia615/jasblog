@@ -8,13 +8,9 @@
 		 crossorigin="anonymous">
 		<link href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 		<link rel="stylesheet" type="text/css" href="css/index.css" />
-		
+		<script src="js/main.js" type="text/javascript" charset="utf-8"></script>
 	</head>
 	<body>
-		<div id="loadHtml">
-			<img src="img/loading.gif" />
-		</div>
-		
 		<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
 			<a class="navbar-brand" href="#">JasBlog</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -307,6 +303,5 @@
 		 crossorigin="anonymous"></script>
 		<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.0/dist/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
 		 crossorigin="anonymous"></script>
-		 <script src="js/main.js" type="text/javascript" charset="utf-8"></script>
 	</body>
 </html>
