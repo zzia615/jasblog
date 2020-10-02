@@ -3,21 +3,7 @@ body {
 	background: #ECECF6;
 }
 
-#loadHtml{
-	background: #fff;
-	z-index: 9999;
-	position: absolute;
-	top: 0;
-	left: 0;
-	right: 0;
-	bottom: 0;
-}
 
-#loadHtml img{
-	display: block;
-	margin: 100px auto;
-	width: 400px;
-}
 
 .container-fluid {
 	padding: 0px;
