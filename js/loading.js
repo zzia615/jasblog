@@ -1,4 +1,4 @@
-var html='<div id="loadHtml"><img src="img/loading.gif" /></div>';
+var _LoadingHtml='<div id="loadHtml"><img src="img/loading.gif" /></div>';
 // 呈现loading效果
 document.write(_LoadingHtml);
 
