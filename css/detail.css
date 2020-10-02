@@ -52,7 +52,7 @@ body {
 }
 
 #leftArrow a,#rightArrow a{
-	width: 200px;
+	width: 250px;
 }
 
 #rightArrow{
@@ -60,8 +60,16 @@ body {
 }
 
 
+.required{
+	color: red;
+}
 
 
+.media img{
+	width: 64px;
+	height: 64px;
+	background: rgba(222,222,222,0.8);
+}
 @media (max-width:720px) {
 
 	.carousel-item {
@@ -76,6 +84,13 @@ body {
 		margin: 75px auto;
 	}
 	
+	
+	#leftArrow a,#rightArrow a{
+		width: 160px;
+	}
+}
+
+@media (max-width:576px) {
 	
 	#leftArrow a,#rightArrow a{
 		width: 120px;
